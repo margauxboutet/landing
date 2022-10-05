@@ -8,7 +8,7 @@ body {
 
   h1, h2, h3 {
 
-    color: #404042;
+    color: #a25284;
 
     font-family: Chivo;
 
@@ -16,7 +16,7 @@ body {
 
   p {
 
-    color: #404042;
+    color: #87527e;
 
     opacity: .7;
 
@@ -34,9 +34,10 @@ body {
 
   .banner {
 
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/background.jpg');
+    background-image: linear-gradient(rgb(102 89 98 / 60%), rgba(0,0,0,0.6)), url('images/B.jpg');
 
     background-size: cover;
+
 
     background-position: center;
 
@@ -50,9 +51,9 @@ body {
 
   .banner h1 {
 
-    color: white;
+    color: #f4eeee;
 
-    font-size: 45px;
+    font-size: 65px;
 
     margin: 0;
 
@@ -62,9 +63,9 @@ body {
 
   .banner p {
 
-    color: rgb(0, 247, 132);
+    color: rgb(249 253 251 / 95%);
 
-    font-size: 24px;
+    font-size: 34px;
 
   }
 
@@ -78,29 +79,13 @@ body {
 
  
 
-  .btn {
-
-    background-color: #075379;
-
-    color: rgb(147, 230, 216);
-
-    padding: 16px 48px;
-
-    border-radius: 4px;
-
-    display: inline-block;
-
-    text-decoration: none;
-
-    transition: .3s;
-
-  }
+  .btn {background-color: #110e11;color: #e7eee9;padding: 16px 48px;border-radius: 4px;display: inline-block;text-decoration: none;transition: .3s;}
 
  
 
   .btn:hover {
 
-    background-color: #0dc635;
+    background-color: #e2eae4;
 
     color: white;
 
@@ -112,7 +97,7 @@ body {
 
   .card {
 
-    background: rgb(255, 255, 255);
+    background: rgb(77 72 76);
 
     box-shadow: 0 0 16px rgba(0,0,0,0.1);
 
@@ -150,7 +135,7 @@ body {
 
   .footer {
 
-    background: #000000;
+    background: #80637b;
 
     text-align: center;
 
